@@ -1,11 +1,11 @@
-##🦠 COVID-19 Analysis & Visualization using Plotly Express
-#📌 Project Overview
+# 🦠 COVID-19 Analysis & Visualization using Plotly Express
+## 📌 Project Overview
 
 This project analyzes and visualizes the global impact of COVID-19 using Python, Pandas, and Plotly Express. The goal is to uncover insights into confirmed cases, deaths, recoveries, and testing across countries, as well as trends over time.
 
 By leveraging interactive visualizations, we make the data more accessible and easier to interpret for decision-makers, researchers, and the general public.
 
-📂 Datasets Used
+# 📂 Datasets Used
 
 The project integrates three datasets for a comprehensive analysis:
 
@@ -15,7 +15,7 @@ covid_grouped.csv → Daily time-series data of confirmed, deaths, recovered, ac
 
 coviddeath.csv → US-specific data of COVID-19 deaths by age group and medical conditions.
 
-#🎯 Objectives
+# 🎯 Objectives
 
 Clean and preprocess COVID-19 datasets.
 
@@ -35,7 +35,7 @@ Analyze US death data by age and comorbidities.
 
 Summarize key insights and findings.
 
-#🛠️ Tools & Libraries
+# 🛠️ Tools & Libraries
 
 Python
 
@@ -47,7 +47,7 @@ Matplotlib & Seaborn → Supporting static charts
 
 Jupyter/Colab → Development environment
 
-#📊 Key Insights (Sample)
+# 📊 Key Insights (Sample)
 
 Countries like USA, India, and Brazil reported the highest number of confirmed cases.
 
