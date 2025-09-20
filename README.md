@@ -82,7 +82,8 @@ The project is divided into **3 main parts**:
 
 ### 🔥 Heatmap of Age × Condition
 ![Heatmap]
-"C:\Users\91897\OneDrive\Pictures\Screenshots\download.png"
+<img width="998" height="1037" alt="download" src="https://github.com/user-attachments/assets/e8555e4b-77c0-49c1-9708-8f3011c6ca87" />
+
 
 ---
 
